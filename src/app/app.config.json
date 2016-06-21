@@ -1,0 +1,13 @@
+{
+  "appname": "AdminApp-Poland Spring",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "84DAD9CF-EC9F-4B31-B50D-0FD1E9F24B53",
+  "buyerid": "WholeFoods",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
